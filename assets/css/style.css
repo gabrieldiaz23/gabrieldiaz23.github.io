@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+    margin: 20px;
+}
+#nButton {
+    margin: 5px;
+}
+
+#gifId {
+    margin: 3px;
+}
