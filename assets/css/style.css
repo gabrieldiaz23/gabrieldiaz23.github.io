@@ -1,11 +1,17 @@
 body {
-    background-color: lightgray;
     margin: 20px;
 }
-#nButton {
-    margin: 5px;
+
+.jumbotron {
+    text-align: center;
 }
 
-#gifId {
-    margin: 3px;
+.card-header {
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+.jumbotron {
+    background-color: lightblue;
+    color: midnightblue;
 }
